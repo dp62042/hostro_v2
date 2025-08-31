@@ -12,6 +12,7 @@
     "@headlessui/react": "^2.2.7",
     "bcryptjs": "^3.0.2",
     "framer-motion": "^12.23.12",
+    "imagekit": "^6.0.0",
     "jose": "^6.0.12",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.17.1",
